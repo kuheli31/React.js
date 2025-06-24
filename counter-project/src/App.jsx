@@ -13,7 +13,9 @@ function App() {
     }
     else
     {
-        setCounter(counter+1)
+        setCounter(counter+1);
+        setCounter(counter+1);
+        setCounter(counter+1);
     }
     console.log("Value added =" , counter);
   }
